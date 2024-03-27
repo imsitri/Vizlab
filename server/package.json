@@ -1,5 +1,6 @@
 {
   "name": "server",
+  "proxy": "http://localhost:80",
   "version": "1.0.0",
   "description": "Server side code to make data API calls and process data",
   "main": "server.js",
